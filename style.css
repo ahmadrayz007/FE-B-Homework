@@ -1,0 +1,19 @@
+.container {
+  margin-top: 25px;
+  margin-bottom: 35px;
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+
+.steph {
+  float: left;
+  border-radius: 65%;
+  width: 35%;
+  margin-right: 35px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
