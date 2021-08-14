@@ -1,0 +1,68 @@
+%main-margin {
+    margin-top: 200px;
+    padding-left: 250px;
+}
+
+#header {
+    @extend %main-margin;
+}
+
+#contact {
+    margin-top: 150px;
+    padding-left: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bg1 {
+    background-color: #EDF7FA;
+}
+
+#icon {
+    width: 13px;
+    margin-right: 10px;
+}
+
+#h6-contact {
+    margin-bottom: 20px;
+}
+
+#projects {
+    margin-top: 29px;
+    margin-bottom: 29px;
+    padding-left: 250px;
+}
+
+#img-project{
+    max-width: 100%;
+    width: 246px;
+    height: 180px;
+}
+
+#row-projects{
+    margin-top: 30px;
+}
+
+#p-project{
+    display: block;
+    position: relative;
+    top: 5px;
+}
+.btn{
+    padding: 1px 3px;
+    border-radius: 10px;
+}
+
+.btn-dark.disabled{
+    background-color: #142850
+}
+
+ul{
+    margin-top: -15px;
+}
+
+#foto-rais {
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+  }
